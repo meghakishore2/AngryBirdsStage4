@@ -1,2 +1,2 @@
-# AngryBirdsStage4
-Angry Birds: Learning Constraints
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
